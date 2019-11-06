@@ -35,3 +35,4 @@ mov dl, ah
 
 ;Lo copiamos en la parte baja (low) del registro
 
+ret
